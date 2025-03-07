@@ -1,5 +1,9 @@
-## Hi there 👋
+#### Hi there 👋
 
+#### 🔭 I’m currently working on a new site.
+#### 🌱 I’m learning to keep things simple.
+
+#### Peace out ☮️
 <!--
 **sahra-everywhere/sahra-everywhere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
